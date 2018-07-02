@@ -1,0 +1,153 @@
+  * {
+    padding: 0px;
+    margin: 0px, 150px, 0px, 150px;
+    font-family: Open Sans;
+  }
+
+
+  .main{
+    width: auto;
+    margin: auto;
+  }
+
+  .space{
+    background-color: #fff;
+    border-color: #c8c8c8;
+    border-style: solid;
+    border-width: 0px 1px 0px 1px;
+    padding-right: 50px;
+    padding-left: 50px;
+    align-self: auto;
+  }
+
+  header img {
+    margin-top: 50px;
+  }
+
+  header, div, footer  {
+    width: 1060px;
+    margin: auto;
+
+  }
+
+  .header {
+    width: 100%;
+    background: linear-gradient(#5d5d5d, #444343);
+    padding: 13px 0px 13px 0px;
+    margin-top: 40px;
+  }
+
+  .header li {
+    display: inline-block;
+  }
+
+  .header li a {
+    text-decoration: none;
+    text-shadow: 0.5px 0.5px 0.5px rgba(42, 53, 51, 0.5);
+    color: #ffffff;
+    font-size: 13px;
+    padding: 13px 30px 13px 30px;
+    }
+  
+  .header li a:hover {
+    background: linear-gradient(#4a4a4a, #2e2e2e);
+  }
+
+  .scroll {
+    margin-top: 40px;
+    width: 240px;
+    float: left;
+    border-color: #c8c8c8;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+  }
+
+  .scroll li {
+    display: block;
+    padding: 15px 24px;
+
+  }
+  
+  .scroll li:hover{
+    background: #f9f9f9;
+    border-color: #c8c8c8;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+  }
+  
+  .sсroll li a {
+    font-size: 13px;
+    padding: 45px 20px 45px 20px;
+    display: inline-block; 
+  }
+
+  .scroll li a:hover {
+    padding-left: 12px;
+  }
+  
+  .scroll a{ 
+    text-decoration: none;
+    color:#525151;
+  }
+
+  .scroll a:hover{
+    color: #2c2c2c;
+  }
+
+  .img {
+    text-align: center;
+    height: 400px;
+    width: auto;
+    border: 1px solid #c8c8c8;
+  }
+
+  .img, .text {
+    margin-top: 40px;
+  }
+
+  .text p {
+    padding: 0px 24px 0px 24px;
+    font-size: 13px;
+    color:#565656;
+  }
+
+  .content {
+    float: right;
+    width: 760px;
+    margin-bottom: 60px;
+  }
+
+  footer {
+    background: #e1e1e1;
+    overflow: auto;
+    margin-top: 60px;
+    margin-bottom: 60px;
+  }
+
+  footer ul {
+    float: left;  
+  }
+
+  footer  li {
+    display: inline-block;
+    padding-right: 25px;
+    padding-left: 25px;
+  }
+
+  footer li a {
+    text-decoration: none;
+    color: #595959;
+    font-size: 13px;
+  }
+
+  footer li a:hover {
+    border-bottom: 1px solid #595959;
+  }
+
+  span{
+    float: right;
+    color: #595959;
+    font-size: 13px;
+    padding-top: 20px;
+    padding-right: 25px; 
+  }
